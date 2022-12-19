@@ -1,3 +1,3 @@
 #!/bin/sh
-ls -R
+ls some-files-alias/*
 ls some-files/*
